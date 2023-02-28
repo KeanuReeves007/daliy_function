@@ -8,6 +8,6 @@
 ### 包含功能
 
 <ol>
-  <li>EXCEL数据追加</li>
+  <li>Excel数据追加</li>
 </ol>
 
